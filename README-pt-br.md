@@ -1,4 +1,5 @@
-# Nome do projeto [![Doações](https://img.shields.io/badge/Doações-brightgreen.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BKXUAMJSNZN46&item_name=Thanks+for+Help+me%21&currency_code=BRL&source=url)
+# Formação .NET - Caelum 
+<!--[![Doações](https://img.shields.io/badge/Doações-brightgreen.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BKXUAMJSNZN46&item_name=Thanks+for+Help+me%21&currency_code=BRL&source=url)-->
 
 <!-- Traduzir -->
 <a href="./README.md">
@@ -8,7 +9,7 @@
 <!-- Banner -->
 <p align="center">
   <a href="" target="_blank" >
-    <img alt="Banner" src="./.github/assets/brand.jpg" width="300" />
+    <img alt="Banner" src="./.github/assets/background.jpg" width="300" />
   </a>
 </p>
 
@@ -44,40 +45,11 @@
   </a>
 </p>
 
-## Início
-```console
-foo@bar:~$ npm install, or
-foo@bar:~$ yarn install
-```
+## Projetos
+*   [Hello World]()
 
-## Exemplo HTML5
-```html
-<section>
-<h1>Hello!</h1>
-</section>
-```
-
-## Exemplo CSS3
-```css
-.foo {
-width: 100vw;
-height: 100vh;
-}
-```
-
-## Exemplo ES6
-```js
-function nameFunction () => {}
-```
-
-## Descrição do desafio
->Lorem ipsum...
-
-## Demo
-*   [Clique aqui](https://www.deppbrazil.com)
-
-## Referência
-*   [Guia Markdown](https://guides.github.com/features/mastering-markdown/)
+## Anotações
+*   [Notion](https://www.notion.so/Forma-o-NET-e103bdd244524f019c853d4759f0d298)
 
 ## Licença 
 *   [MIT](./LICENSE) &copy; Mir Carvalho

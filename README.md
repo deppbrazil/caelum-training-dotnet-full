@@ -1,4 +1,5 @@
-# Project name  [![Donate](https://img.shields.io/badge/Donate-brightgreen.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BKXUAMJSNZN46&item_name=Thanks+for+Help+me%21&currency_code=BRL&source=url)
+# .NET Training - Caelum
+<!--[![Donate](https://img.shields.io/badge/Donate-brightgreen.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BKXUAMJSNZN46&item_name=Thanks+for+Help+me%21&currency_code=BRL&source=url)-->
 
 <!-- Translate -->
 <a href="./README-pt-br.md">
@@ -8,7 +9,7 @@
 <!-- Banner -->
 <p align="center">
   <a href="" target="_blank" >
-    <img alt="Banner" src="./.github/assets/brand.jpg" width="300" />
+    <img alt="Banner" src="./.github/assets/background.jpg" width="300" />
   </a>
 </p>
 
@@ -44,40 +45,11 @@
   </a>
 </p>
 
-## Get Started
-```console
-foo@bar:~$ npm install, or
-foo@bar:~$ yarn install
-```
+## Projects
+*   [Hello World]()
 
-## Exemple HTML5
-```html
-<section>
-<h1>Hello!</h1>
-</section>
-```
-
-## Exemple CSS3
-```css
-.foo {
-width: 100vw;
-height: 100vh;
-}
-```
-
-## Exemple ES6
-```js
-function nameFunction () => {}
-```
-
-## Challenge description
->Lorem ipsum...
-
-## Demo
-*   [Click here](https://www.deppbrazil.com)
-
-## Reference 
-*   [Markdown guide](https://guides.github.com/features/mastering-markdown/)
+## Notebook 
+*   [Notion](https://www.notion.so/Forma-o-NET-e103bdd244524f019c853d4759f0d298)
 
 ## License
 *   [MIT](./LICENSE) &copy; Mir Carvalho

@@ -46,7 +46,8 @@
 </p>
 
 ## Projects
-*   [Hello World](https://github.com/deppbrazil/formacao-dotnet-caelum-hello-world)
+*   [Olá Mundo!](https://github.com/deppbrazil/formacao-dotnet-caelum-hello-world)
+*   [Exercícios](https://github.com/deppbrazil/formacao-dotnet-caelum-exercicios)
 
 ## Notebook 
 *   [Notion](https://www.notion.so/Forma-o-NET-e103bdd244524f019c853d4759f0d298)

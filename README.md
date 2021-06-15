@@ -9,7 +9,7 @@
 <!-- Banner -->
 <p align="center">
   <a href="" target="_blank" >
-    <img alt="Banner" src="./.github/assets/background.jpg" width="300" />
+    <img alt="Banner" src="./.github/assets/background.jpg" width="100%" />
   </a>
 </p>
 

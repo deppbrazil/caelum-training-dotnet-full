@@ -46,9 +46,9 @@
 </p>
 
 ## Projetos
-*   [Hello World!](https://github.com/deppbrazil/formacao-dotnet-caelum-hello-world)
-*   [Exercises](https://github.com/deppbrazil/formacao-dotnet-caelum-exercicios)
-*   [Bank Project](https://github.com/deppbrazil/formacao-dotnet-caelum-projeto-banco)
+*   [Olá Mundo!](https://github.com/deppbrazil/formacao-dotnet-caelum-hello-world)
+*   [Exercícios](https://github.com/deppbrazil/formacao-dotnet-caelum-exercicios)
+*   [Projeto Banco](https://github.com/deppbrazil/formacao-dotnet-caelum-projeto-banco)
 
 ## Anotações
 *   [Notion](https://www.notion.so/Forma-o-NET-e103bdd244524f019c853d4759f0d298)

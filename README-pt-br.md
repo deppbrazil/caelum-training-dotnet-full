@@ -13,35 +13,21 @@
   </a>
 </p>
 
-<!-- Primeiros badges -->
-<p align="center">
-  <!-- Codacy -->
-  <a href="https://www.codacy.com/manual/deppbrazil/repository-patterns?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=deppbrazil/repository-patterns&amp;utm_campaign=Badge_Grade">
-    <img alt="Qualidade do código" src="https://api.codacy.com/project/badge/Grade/61cb2455f6ab4d809986f7d995623c3d"/>
+<!-- Badges -->
+<p align="center">  
+  <!-- Last commit -->
+  <a href="https://github.com/deppbrazil/template-repo/commits/master">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/deppbrazil/caelum-training-dotnet-full.svg">
   </a>
-  <!-- Último commit -->
-  <a href="https://github.com/deppbrazil/repository-patterns/commits/master">
-    <img alt="Último commit" src="https://img.shields.io/github/last-commit/deppbrazil/repository-patterns.svg">
-  </a>
-  <!-- Tamanho do repo -->
-  <a href="https://github.com/deppbrazil/repository-patterns">
-    <img alt="Tamanho do repo" src="https://img.shields.io/github/repo-size/deppbrazil/repository-patterns.svg?color=brightgreen" />
-  </a>
-</p>
 
-<!-- Segundos badges -->
-<p align="center">
-  <!-- Contibuidores -->
-  <a href="https://github.com/deppbrazil/repository-patterns/graphs/contributors">
-    <img alt="Contibuidores do projeto" src="https://img.shields.io/github/contributors/deppbrazil/repository-patterns.svg?color=blue" />
+  <!-- Contributors -->
+  <a href="https://github.com/deppbrazil/caelum-training-dotnet-full/graphs/contributors">
+    <img alt="Contributors project" src="https://img.shields.io/github/contributors/deppbrazil/caelum-training-dotnet-full.svg?color=blue" />
   </a>
-  <!-- Linguagens -->
-  <a href="https://github.com/deppbrazil/repository-patterns">
-    <img alt="Linguagens" src="https://img.shields.io/github/languages/count/deppbrazil/repository-patterns.svg" />
-  </a>
-  <!-- Licença -->
+  
+  <!-- License -->
   <a href="./LICENSE">
-    <img alt="Licença do Software" src="https://img.shields.io/badge/license-MIT-blue.svg">
+    <img alt="Software License" src="https://img.shields.io/badge/license-MIT-blue.svg">
   </a>
 </p>
 
@@ -57,5 +43,6 @@
 *   [Olá Mundo!](https://github.com/deppbrazil/caelum-training-aspnet-core-hello-world)
 *   [Blog](https://github.com/deppbrazil/caelum-training-aspnet-core-blog)
 
-## Licença 
-*   [MIT](./LICENSE) &copy; Mir Carvalho
+---
+
+Copyright &copy; Mir Carvalho 2021

@@ -45,13 +45,17 @@
   </a>
 </p>
 
-## Projetos
-*   [Olá Mundo!](https://github.com/deppbrazil/formacao-dotnet-caelum-hello-world)
-*   [Exercícios](https://github.com/deppbrazil/formacao-dotnet-caelum-exercicios)
-*   [Projeto Banco](https://github.com/deppbrazil/formacao-dotnet-caelum-projeto-banco)
-
 ## Anotações
 *   [Notion](https://www.notion.so/Forma-o-NET-e103bdd244524f019c853d4759f0d298)
+
+## C# e OO (Orientação a Objetos)
+*   [Olá Mundo!](https://github.com/deppbrazil/caelum-training-OO-csharp-hello-world)
+*   [Exercícios](https://github.com/deppbrazil/caelum-training-OO-csharp-exercises)
+*   [Projeto Banco](https://github.com/deppbrazil/caelum-training-OO-csharp-bank)
+
+## ASP.NET Core MVC e persistência de dados com Entity Framework
+*   [Olá Mundo!](https://github.com/deppbrazil/caelum-training-aspnet-core-hello-world)
+*   [Blog](https://github.com/deppbrazil/caelum-training-aspnet-core-blog)
 
 ## Licença 
 *   [MIT](./LICENSE) &copy; Mir Carvalho

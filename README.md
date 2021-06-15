@@ -53,7 +53,7 @@
 *   [Exercises](https://github.com/deppbrazil/caelum-training-OO-csharp-exercises)
 *   [Bank Project](https://github.com/deppbrazil/caelum-training-OO-csharp-bank)
 
-# ASP.NET Core MVC and data persistence with Entity Framework
+## ASP.NET Core MVC and data persistence with Entity Framework
 *   [Hello World](https://github.com/deppbrazil/caelum-training-aspnet-core-hello-world)
 *   [Blog](https://github.com/deppbrazil/caelum-training-aspnet-core-blog)
 

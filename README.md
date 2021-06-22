@@ -48,7 +48,7 @@
 
 ## ASP.NET Core MVC and data persistence with Entity Framework
 
--   [Hello World](https://github.com/deppbrazil/caelum-training-aspnet-core-hello-world)
+-   [Hello World!](https://github.com/deppbrazil/caelum-training-aspnet-core-hello-world)
 -   [Blog](https://github.com/deppbrazil/caelum-training-aspnet-core-blog)
 
 * * *
